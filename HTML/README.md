@@ -1,5 +1,5 @@
 # Inventionprogram
-HI FRIENGS 
+HI FRIENDS 
 
 Today I'm here to show you
 
