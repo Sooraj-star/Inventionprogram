@@ -7,7 +7,7 @@ public class Day
     int time = LocalTime.now().getHour();
     if (time < 5) {
       System.out.println("Good MidNight, Sooraj");
-    } else if (time >=5 && time <= 12) {:
+    } else if (time >=5 && time <= 12) {
       System.out.println("Good Morning, Sooraj");
     } else if (time >= 12 && time <= 16) {
       System.out.println("Good AfterNoon, Sooraj");
